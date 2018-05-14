@@ -1,0 +1,12 @@
+.left{
+	width: 30%;
+	height: 900px;
+	background-color: #eab5de;
+	float: left;
+}
+.right{
+width: 70%;
+	height: 900px;
+	background-color: #74f2ab;
+	float: left;
+}
